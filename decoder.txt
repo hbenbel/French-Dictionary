@@ -1,0 +1,26 @@
+1sg  -> 1ere personne singulier
+1pl  -> 1ere personne pluriel
+1isg -> 3e personne singulier
+mas  -> masculin
+fem  -> féminin
+ipre -> indicatif présent
+iimp -> indicatif imparfait
+ipsi -> indicatif passé simple
+ifut -> indicatif futur
+     -> indicatif passé composé
+     -> indicatif plus-que-parfait
+     -> indicatif passé antérieur
+     -> indicatif futur antérieur
+spre -> subjonctif présent
+simp -> subjonctif imparfait
+     -> subjonctif plus-que-parfait
+     -> subjonctif passé
+cond -> conditionnel présent
+     -> conditionnel passé
+impe -> impératif présent
+     -> impératif passé
+infi -> infinitif présent
+     -> infinitif passé
+ppre -> participe présent
+     -> paricipe passé composé
+ppas -> participe passé
