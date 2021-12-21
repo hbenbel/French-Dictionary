@@ -24,3 +24,4 @@ infi -> infinitif présent
 ppre -> participe présent
      -> paricipe passé composé
 ppas -> participe passé
+inv  -> invariant
