@@ -28,7 +28,8 @@ ce;mas;sg
 cet;mas;sg
 cette;fem;sg
 ces;pl
-aucun
+aucun;mas
+aucune;fem
 chaque
 nul
 plusieurs;pl
