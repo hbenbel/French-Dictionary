@@ -1,0 +1,309 @@
+,form,tags
+0,quel,
+1,y,
+2,on,
+3,te,
+4,en,
+5,quelques choses,['plural']
+6,me,
+7,tous,['plural']
+8,auquel,
+9,lui,
+10,Votre Grâce,
+11,Votre Courtoisie,
+12,un,
+13,personne,
+14,ce,['plural']
+15,s',['before-vowel']
+16,le mien,
+17,nulle,
+18,ton,"['determiner', 'possessive']"
+19,la,
+20,le vôtre,
+21,tu,
+22,nous,['plural']
+23,moi,['emphatic']
+24,nous,
+25,l'un après l'autre,
+26,j',
+27,tout le monde,
+28,n'importe lequel,
+29,vous,
+30,les,
+31,ceux,
+32,Votre Majesté Impériale,
+33,eux,
+34,ils,['plural']
+35,le,['accusative']
+36,lui,['dative']
+37,lui,['emphatic']
+38,la,['feminine']
+39,les,"['feminine', 'masculine', 'plural']"
+40,dont,
+41,l’,"['canonical', 'feminine', 'masculine']"
+42,moi,
+43,ielle,
+44,vostre,
+45,t',
+46,se,
+47,quid,
+48,qui,
+49,alle,
+50,que,
+51,je,
+52,Votre Grandeur,
+53,toi,
+54,iel,
+55,nul,
+56,ils,
+57,quelqu'un,
+58,cette,
+59,leur,
+60,le leur,
+61,elles,['plural']
+62,duquel,
+63,Votre Majesté,
+64,boro,
+65,elles,
+66,quoi,
+67,ça,
+68,rien,
+69,Votre Altesse,
+70,tel,
+71,a,
+72,ceci,
+73,celui,
+74,iels,['plural']
+75,Son Altesse,
+76,quelques,['plural']
+77,cela,
+78,quelle,['feminine']
+79,quels,"['masculine', 'plural']"
+80,quelles,"['feminine', 'plural']"
+81,l'un l'autre,
+82,leurs,
+83,tous,
+84,ceux,['plural']
+85,celle,['feminine']
+86,celles,"['feminine', 'plural']"
+87,Sa Majesté,
+88,celle,
+89,koi,
+90,n'importe quel,
+91,celle-ci,['feminine']
+92,ceux-ci,"['masculine', 'plural']"
+93,celles-ci,"['feminine', 'plural']"
+94,ej,
+95,lequel,
+96,soi,
+97,qqn,
+98,le sien,
+99,elle,
+100,le nôtre,
+101,quelqu'une,"['feminine', 'rare']"
+102,quelques-uns,"['masculine', 'plural']"
+103,quelques-unes,"['feminine', 'plural', 'rare']"
+104,le tien,
+105,l'un,
+106,quelque,
+107,celui-là,
+108,quelle,
+109,il,
+110,chacune,['feminine']
+111,l',
+112,chacun,
+113,nostre,
+114,m',
+115,nostres,['plural']
+116,Votre Excellence,
+117,laquelle,
+118,laquelle,['feminine']
+119,lesquels,"['masculine', 'plural']"
+120,lesquelles,"['feminine', 'plural']"
+121,n'importe qui,
+122,n'importe quoi,
+123,celui-ci,
+124,à laquelle,['feminine']
+125,auxquels,"['masculine', 'plural']"
+126,auxquelles,"['feminine', 'plural']"
+127,icelui,
+128,aucun,['masculine']
+129,tout,
+130,aucune,['feminine']
+131,lesquels,
+132,quelque chose,
+133,Votre Révérence,
+134,de laquelle,['feminine']
+135,desquels,"['masculine', 'plural']"
+136,desquelles,"['feminine', 'plural']"
+137,yé,
+138,celle-là,['feminine']
+139,ceux-là,"['masculine', 'plural']"
+140,celles-là,"['feminine', 'plural']"
+141,celles,
+142,lesquelles,
+143,elles-mêmes,
+144,lui-même,
+145,toi-même,
+146,moi-même,
+147,elle-même,
+148,eux-mêmes,
+149,vous-mêmes,
+150,soi-même,
+151,vous-même,
+152,nous-mêmes,
+153,quelqu'une,
+154,fous,
+155,vostres,['plural']
+156,certains,
+157,quiconque,
+158,maint,
+159,ç',
+160,grand-chose,
+161,qu',
+162,s’,['canonical']
+163,ceste,
+164,j’,['canonical']
+165,la sienne,['feminine']
+166,les siens,"['masculine', 'plural']"
+167,les siennes,"['feminine', 'plural']"
+168,desquelles,
+169,desquels,
+170,celle-là,
+171,qu'est-ce qui,
+172,qu'est-ce que,
+173,quoy,
+174,celuy,
+175,c',
+176,les uns,['plural']
+177,celles-ci,
+178,ceux-ci,
+179,celle-ci,
+180,bibi,
+181,ielles,['plural']
+182,quelles,
+183,quels,
+184,tous les deux,
+185,icelle,
+186,icelle,['feminine']
+187,iceux,"['masculine', 'plural']"
+188,icelles,"['feminine', 'plural']"
+189,ce qui,
+190,ce que,
+191,auxquels,
+192,Vos Majestés,['plural']
+193,auxquelles,
+194,chacune,
+195,ceux-là,
+196,celles-là,
+197,la leur,['feminine']
+198,les leurs,['plural']
+199,les leurs,
+200,autre chose,
+201,qqch,
+202,moé,
+203,autrui,
+204,l'on,
+205,Vostre Majesté,
+206,d'aucuns,
+207,Leurs Majestés,['plural']
+208,la vôtre,
+209,les nôtres,
+210,les vôtres,
+211,la nôtre,
+212,la nôtre,['feminine']
+213,les nôtres,['plural']
+214,la vôtre,['feminine']
+215,les vôtres,['plural']
+216,Vos Grâces,['plural']
+217,Vos Grandeurs,['plural']
+218,Vos Révérences,['plural']
+219,Vos Courtoisies,['plural']
+220,les siens,
+221,les siennes,
+222,la sienne,
+223,Sa Majesté impériale,
+224,Leurs Excellences,['plural']
+225,Leurs Altesses,['plural']
+226,iceux,
+227,icelles,
+228,nawak,
+229,quoi que,
+230,l'une l'autre,['feminine']
+231,les uns les autres,"['masculine', 'plural']"
+232,les unes les autres,"['feminine', 'plural']"
+233,quantième,
+234,toé,
+235,vous autres,
+236,nous autres,
+237,unetelle,['feminine']
+238,celà,
+239,les tiennes,
+240,n'importe laquelle,['feminine']
+241,n'importe lesquels,"['masculine', 'plural']"
+242,n'importe lesquelles,"['feminine', 'plural']"
+243,les miens,
+244,la mienne,
+245,les miennes,
+246,la mienne,['feminine']
+247,les miens,"['masculine', 'plural']"
+248,les miennes,"['feminine', 'plural']"
+249,la leur,
+250,la tienne,
+251,les tiens,
+252,la tienne,['feminine']
+253,les tiens,"['masculine', 'plural']"
+254,les tiennes,"['feminine', 'plural']"
+255,ma pomme,
+256,untel,['masculine']
+257,tézigue,
+258,cézigue,
+259,mézigue,
+260,ellesmêmes,
+261,quelques-unes,"['feminine', 'plural']"
+262,walou,
+263,çui,
+264,tout et n'importe quoi,
+265,tout un chacun,
+266,grand monde,
+267,celleux,
+268,qui que ce puisse être,
+269,âme qui vive,
+270,qui que ce soit,
+271,les uns les autres,
+272,Vos Grâces,
+273,Leurs Majestés,
+274,Leurs Altesses,
+275,Vos Courtoisies,
+276,Vos Majestés,
+277,Vos Révérences,
+278,Vos Grandeurs,
+279,qui que ce pût être,
+280,Leurs Excellences,
+281,Vos Excellences,['plural']
+282,Vos Altesses,['plural']
+283,quelques-unes,
+284,eux-autres,
+285,dégun,
+286,iels,
+287,c'tte,
+288,c't,
+289,l'une après l'autre,['feminine']
+290,les uns après les autres,"['masculine', 'plural']"
+291,les unes après les autres,"['feminine', 'plural']"
+292,les uns après les autres,
+293,rien de rien,
+294,rien du tout,
+295,vous-autres,
+296,bôrô,
+297,n'importe quelle,['feminine']
+298,n'importe quels,"['masculine', 'plural']"
+299,n'importe quelles,"['feminine', 'plural']"
+300,Vos Majestés Impériales,['plural']
+301,ielles,
+302,y en a des qui,
+303,il y en a des qui,
+304,rien de tel,
+305,qq1,
+306,qqc,
+307,Son Excellence,

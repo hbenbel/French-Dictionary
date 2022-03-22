@@ -1,0 +1,55 @@
+,form,tags
+0,son,
+1,certain,
+2,ta,
+3,cet,"['before-vowel', 'masculine']"
+4,cette,['feminine']
+5,ces,['plural']
+6,vos,
+7,ton,
+8,nos,
+9,sa,
+10,mon,['masculine']
+11,ma,['feminine']
+12,ma,
+13,ce,
+14,votredit,
+15,mon,
+16,ledit,
+17,notredit,
+18,ladite,"['feminine', 'singular']"
+19,lesdits,"['masculine', 'plural']"
+20,lesdites,"['feminine', 'plural']"
+21,leurs,['plural']
+22,ses,
+23,tondit,
+24,tes,
+25,ces,
+26,sondit,
+27,votre,
+28,notre,
+29,cet,
+30,leurs,
+31,mes,
+32,mondit,
+33,leurdit,
+34,tadite,['feminine']
+35,tesdits,"['masculine', 'plural']"
+36,tesdites,"['feminine', 'plural']"
+37,tous deux,
+38,leurdite,['feminine']
+39,leursdits,"['masculine', 'plural']"
+40,leursdites,"['feminine', 'plural']"
+41,sadite,['feminine']
+42,sesdits,"['masculine', 'plural']"
+43,sesdites,"['feminine', 'plural']"
+44,votredite,['feminine']
+45,vosdits,"['masculine', 'plural']"
+46,vosdites,"['feminine', 'plural']"
+47,notredite,['feminine']
+48,nosdits,"['masculine', 'plural']"
+49,nosdites,"['feminine', 'plural']"
+50,madite,['feminine']
+51,mesdits,"['masculine', 'plural']"
+52,mesdites,"['feminine', 'plural']"
+53,leur,

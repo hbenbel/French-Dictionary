@@ -7,6 +7,26 @@
 
 
 DESCRIPTION
-	Txt files containing all french adjectives, adverbs, conjunctions, determiners, nouns,
-	prepositions, pronouns, verbs and their gender, types and conjugations.
-	This can be helpful for creating a spell and/or a grammar checker for french.
+	Txt files containing all french adjectives, adverbs, conjunctions,
+	determiners, nouns, prepositions, pronouns, verbs and their gender,
+	types and conjugations. This can be helpful for creating a spell
+	and/or a grammar checker for french.
+	The files are generated using kaikko's french machine-readable dictionary
+	extracted directly from wiktionary (kaikki.org/dictionary/French/index.html).
+	You can find all the words in the csv files inside the dictionary folder.
+	Those files can be directly loaded using pandas.
+
+USAGE
+	If you want to regenerate the dictionary files first make sure that you
+	have all the required packages in the requirements.txt file.
+	Then you can launch the following command:
+
+	python src/extract_data_from_json.py [-h] --json_file_path JSON_FILE_PATH
+									--saving_path SAVING_PATH
+
+	required arguments:
+		--json_file_path JSON_FILE_PATH, -i JSON_FILE_PATH
+								Path to the wiktionary json file
+		--saving_path SAVING_PATH, -s SAVING_PATH
+								Path to the folder that will contain the output
+								csv files
