@@ -11,11 +11,25 @@ def dropDuplicates(df):
     return df.loc[df.astype(str).drop_duplicates().index]
 
 
+def dropDuplicatesForms(df):
+    row_with_empty_tags = df[df.tags.isnull()]
+    row_with_tags = df[df.tags.notnull()]
+
+    merged = row_with_tags.merge(
+        row_with_empty_tags,
+        on='form',
+        how='outer'
+    )
+
+    return merged[['form', 'tags_x']].rename(columns={'tags_x': 'tags'})
+
+
 def saveAllPos(df, saving_path):
     for pos in tqdm.tqdm(pos_to_keep, desc='Saving Files'):
         file_save_path = os.path.join(saving_path, pos + '.csv')
         words = df[df.pos == pos]
         words = words[['form', 'tags']]
+        words = dropDuplicatesForms(words)
         words = dropDuplicates(words)
         words = words.sort_values(by=['form'])
         words.to_csv(file_save_path, index=False)

@@ -1,9 +1,6 @@
 form,tags
 Leurs Altesses,['plural']
-Leurs Altesses,
 Leurs Excellences,['plural']
-Leurs Excellences,
-Leurs Majestés,
 Leurs Majestés,['plural']
 Sa Majesté,
 Sa Majesté impériale,
@@ -11,16 +8,11 @@ Son Altesse,
 Son Excellence,
 Vos Altesses,['plural']
 Vos Courtoisies,['plural']
-Vos Courtoisies,
 Vos Excellences,['plural']
 Vos Grandeurs,['plural']
-Vos Grandeurs,
-Vos Grâces,
 Vos Grâces,['plural']
-Vos Majestés,
 Vos Majestés,['plural']
 Vos Majestés Impériales,['plural']
-Vos Révérences,
 Vos Révérences,['plural']
 Vostre Majesté,
 Votre Altesse,
@@ -38,9 +30,7 @@ aucune,['feminine']
 auquel,
 autre chose,
 autrui,
-auxquelles,
 auxquelles,"['feminine', 'plural']"
-auxquels,
 auxquels,"['masculine', 'plural']"
 bibi,
 boro,
@@ -54,17 +44,11 @@ ce qui,
 ceci,
 cela,
 celle,['feminine']
-celle,
 celle-ci,['feminine']
-celle-ci,
 celle-là,['feminine']
-celle-là,
 celles,"['feminine', 'plural']"
-celles,
 celles-ci,"['feminine', 'plural']"
-celles-ci,
 celles-là,"['feminine', 'plural']"
-celles-là,
 celleux,
 celui,
 celui-ci,
@@ -74,21 +58,15 @@ celà,
 certains,
 ceste,
 cette,
-ceux,
 ceux,['plural']
-ceux-ci,
 ceux-ci,"['masculine', 'plural']"
-ceux-là,
 ceux-là,"['masculine', 'plural']"
 chacun,
 chacune,['feminine']
-chacune,
 cézigue,
 d'aucuns,
 de laquelle,['feminine']
-desquelles,
 desquelles,"['feminine', 'plural']"
-desquels,
 desquels,"['masculine', 'plural']"
 dont,
 duquel,
@@ -97,7 +75,6 @@ ej,
 elle,
 elle-même,
 elles,['plural']
-elles,
 elles-mêmes,
 ellesmêmes,
 en,
@@ -107,22 +84,16 @@ eux-mêmes,
 fous,
 grand monde,
 grand-chose,
-icelle,
 icelle,['feminine']
-icelles,
 icelles,"['feminine', 'plural']"
 icelui,
-iceux,
 iceux,"['masculine', 'plural']"
 iel,
 ielle,
-ielles,
 ielles,['plural']
 iels,['plural']
-iels,
 il,
 il y en a des qui,
-ils,
 ils,['plural']
 j',
 je,
@@ -132,23 +103,14 @@ l',
 l'on,
 l'un,
 l'un l'autre,
-l'une l'autre,
 l'une l'autre,['feminine']
-la,
 la,['feminine']
 la leur,['feminine']
-la leur,
-la mienne,
 la mienne,['feminine']
-la nôtre,
 la nôtre,['feminine']
-la sienne,
 la sienne,['feminine']
-la tienne,
 la tienne,['feminine']
-la vôtre,
 la vôtre,['feminine']
-laquelle,
 laquelle,['feminine']
 le,['accusative']
 le leur,
@@ -159,38 +121,23 @@ le tien,
 le vôtre,
 lequel,
 les,"['feminine', 'masculine', 'plural']"
-les,
-les leurs,
 les leurs,['plural']
 les miennes,"['feminine', 'plural']"
-les miennes,
-les miens,
 les miens,"['masculine', 'plural']"
-les nôtres,
 les nôtres,['plural']
 les siennes,"['feminine', 'plural']"
-les siennes,
 les siens,"['masculine', 'plural']"
-les siens,
 les tiennes,"['feminine', 'plural']"
-les tiennes,
-les tiens,
 les tiens,"['masculine', 'plural']"
-les unes les autres,
 les unes les autres,"['feminine', 'plural']"
 les uns,['plural']
 les uns après les autres,
 les uns les autres,"['masculine', 'plural']"
-les uns les autres,
-les vôtres,
 les vôtres,['plural']
 lesquelles,"['feminine', 'plural']"
-lesquelles,
-lesquels,
 lesquels,"['masculine', 'plural']"
 leur,
 leurs,
-lui,
 lui,['dative']
 lui,['emphatic']
 lui-même,
@@ -199,7 +146,6 @@ ma pomme,
 maint,
 me,
 moi,['emphatic']
-moi,
 moi-même,
 moé,
 mézigue,
@@ -213,7 +159,6 @@ nawak,
 nostre,
 nostres,['plural']
 nous,['plural']
-nous,
 nous autres,
 nous-mêmes,
 nul,
@@ -231,22 +176,17 @@ quantième,
 que,
 quel,
 quelle,['feminine']
-quelle,
 quelles,"['feminine', 'plural']"
-quelles,
 quelqu'un,
 quelqu'une,"['feminine', 'rare']"
-quelqu'une,
 quelque,
 quelque chose,
 quelques,['plural']
 quelques choses,['plural']
-quelques-unes,"['feminine', 'plural']"
-quelques-unes,
 quelques-unes,"['feminine', 'plural', 'rare']"
+quelques-unes,"['feminine', 'plural']"
 quelques-uns,"['masculine', 'plural']"
 quels,"['masculine', 'plural']"
-quels,
 qui,
 qui que ce puisse être,
 qui que ce pût être,
@@ -272,7 +212,6 @@ tel,
 toi,
 toi-même,
 ton,"['determiner', 'possessive']"
-tous,
 tous,['plural']
 tous les deux,
 tout,

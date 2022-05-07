@@ -3,12 +3,9 @@ bien d'autres,
 ce,
 certain,
 ces,['plural']
-ces,
 cet,"['before-vowel', 'masculine']"
-cet,
 cette,['feminine']
 d'autres,['plural']
-d'autres,
 ladite,"['feminine', 'singular']"
 ledit,
 lesdites,"['feminine', 'plural']"
@@ -17,16 +14,13 @@ leur,
 leurdit,
 leurdite,['feminine']
 leurs,['plural']
-leurs,
 leursdites,"['feminine', 'plural']"
 leursdits,"['masculine', 'plural']"
 ma,['feminine']
-ma,
 madite,['feminine']
 mes,
 mesdites,"['feminine', 'plural']"
 mesdits,"['masculine', 'plural']"
-mon,
 mon,['masculine']
 mondit,
 n'importe quel,
@@ -55,7 +49,6 @@ ton,
 tondit,
 tous deux,
 un autre,
-une autre,
 une autre,"['feminine', 'singular']"
 vos,
 vosdites,"['feminine', 'plural']"
