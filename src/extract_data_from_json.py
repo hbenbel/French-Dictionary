@@ -17,8 +17,8 @@ def saveAllPos(df, saving_path):
         words = df[df.pos == pos]
         words = words[['form', 'tags']]
         words = dropDuplicates(words)
-        words = words.reset_index(drop=True)
-        words.to_csv(file_save_path)
+        words = words.sort_values(by=['form'])
+        words.to_csv(file_save_path, index=False)
 
 
 def saveDictionary(df, saving_path):
@@ -27,8 +27,8 @@ def saveDictionary(df, saving_path):
 
     all_words = df.form
     all_words = dropDuplicates(all_words)
-    all_words = all_words.reset_index(drop=True)
-    all_words.to_csv(dictionary_saving_path)
+    all_words = all_words.sort_values()
+    all_words.to_csv(dictionary_saving_path, index=False, header=False)
     saveAllPos(df, saving_path)
 
 
